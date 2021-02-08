@@ -25,7 +25,7 @@ class Header extends Component{
                 <input type="text" onChange={this.inputChangehandler}/>
                 <button 
                     onClick={()=>console.log("I was clicked")}
-                >Click Me</button>
+                >Click Here</button>
                 
                 {/*    Setting Title by using the state....
                  <div className="logo">{this.state.title}</div>
