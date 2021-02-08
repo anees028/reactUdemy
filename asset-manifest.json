@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/http//anees028.github.io/reactUdemy/static/css/main.5355148d.chunk.css",
+    "main.js": "/http//anees028.github.io/reactUdemy/static/js/main.a48bf267.chunk.js",
+    "main.js.map": "/http//anees028.github.io/reactUdemy/static/js/main.a48bf267.chunk.js.map",
+    "runtime-main.js": "/http//anees028.github.io/reactUdemy/static/js/runtime-main.ba176fd1.js",
+    "runtime-main.js.map": "/http//anees028.github.io/reactUdemy/static/js/runtime-main.ba176fd1.js.map",
+    "static/js/2.bfb96944.chunk.js": "/http//anees028.github.io/reactUdemy/static/js/2.bfb96944.chunk.js",
+    "static/js/2.bfb96944.chunk.js.map": "/http//anees028.github.io/reactUdemy/static/js/2.bfb96944.chunk.js.map",
+    "index.html": "/http//anees028.github.io/reactUdemy/index.html",
+    "static/css/main.5355148d.chunk.css.map": "/http//anees028.github.io/reactUdemy/static/css/main.5355148d.chunk.css.map",
+    "static/js/2.bfb96944.chunk.js.LICENSE.txt": "/http//anees028.github.io/reactUdemy/static/js/2.bfb96944.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba176fd1.js",
+    "static/js/2.bfb96944.chunk.js",
+    "static/css/main.5355148d.chunk.css",
+    "static/js/main.a48bf267.chunk.js"
+  ]
+}
